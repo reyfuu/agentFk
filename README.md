@@ -20,12 +20,25 @@ belum otomatis membuat scheduled task berjalan.
 Ikuti [SETUP GUIDE.md](SETUP%20GUIDE.md) untuk memasang skill dan scheduled task
 di Claude Desktop.
 
-## Rencana GitHub dan VPS
+## Menjalankan di GitHub Actions
 
-Lihat [DEPLOYMENT.md](DEPLOYMENT.md) untuk rancangan migrasi. Rekomendasi awal
-adalah membuat satu runner sederhana yang bisa dipanggil oleh cron di VPS.
-GitHub Actions dapat dipakai untuk pengujian dan pemicu manual setelah runner
-tersebut tersedia.
+1. Buka repository GitHub, lalu `Settings`, `Secrets and variables`, `Actions`.
+2. Tambahkan repository secret bernama `ANTHROPIC_API_KEY`.
+3. Buka tab `Actions`, pilih `Run AI News`, lalu klik `Run workflow`.
+4. Setelah selesai, unduh artifact `ai-news-...` dari halaman run.
+
+Workflow produksi hanya berjalan manual. Push dan pull request menjalankan
+self-check tanpa memakai API. Hasil run disimpan sebagai artifact selama 14
+hari dan tidak otomatis di-commit atau diunggah ke Google Drive.
+
+Model default adalah `claude-sonnet-4-6`. Untuk menggantinya, buat repository
+variable `CLAUDE_MODEL`. Jika variable tidak dibuat, runner memakai model
+default.
+
+## Rencana VPS
+
+Lihat [DEPLOYMENT.md](DEPLOYMENT.md) untuk tahap berikutnya setelah hasil
+GitHub Actions stabil.
 
 ## Output
 
@@ -33,4 +46,3 @@ Hasil harian disimpan di folder `Riset AI News`:
 
 - `YYYY-MM-DD.md` untuk brief berita.
 - `YYYY-MM-DD (Script).md` untuk script Reels.
-

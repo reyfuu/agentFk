@@ -2,12 +2,9 @@
 
 ## Kondisi sekarang
 
-Isi repository adalah prompt dan data referensi. Eksekusinya masih bergantung
-pada Claude Desktop, WebSearch, WebFetch, akses file lokal, dan koneksi Google
-Drive milik aplikasi desktop.
-
-Karena belum ada program runner, repository ini belum dapat dijalankan langsung
-oleh GitHub Actions atau cron di VPS.
+Repository sudah memiliki `run.py` dan GitHub Actions manual. Runner memakai
+Claude API dengan web search, membuat brief dan script, memvalidasi jumlah
+output, lalu menyediakan hasil sebagai artifact GitHub.
 
 ## Target minimum
 
@@ -42,17 +39,14 @@ run.py -> API model dan web search
   +-> Google Drive API
 ```
 
-Environment yang kemungkinan dibutuhkan:
+Environment yang dibutuhkan saat ini:
 
 ```text
 ANTHROPIC_API_KEY
-GOOGLE_DRIVE_FOLDER_ID
-GOOGLE_SERVICE_ACCOUNT_JSON
-TZ=Asia/Jakarta
+CLAUDE_MODEL, opsional
 ```
 
-Nama dan format credential final harus mengikuti provider yang dipilih saat
-runner mulai dibuat. Jangan commit file `.env` atau credential Google.
+Jangan commit file `.env` atau credential apa pun.
 
 ## Pilihan scheduler
 
@@ -69,7 +63,7 @@ Kekurangan:
 - Server perlu dipelihara.
 - Log rotation dan alert kegagalan perlu disiapkan.
 
-### GitHub Actions
+### GitHub Actions, aktif
 
 Kelebihan:
 
@@ -84,38 +78,30 @@ Kekurangan:
 
 ## Tahapan implementasi
 
-### Fase 1, runner lokal
+### Fase 1, runner GitHub, selesai
 
-- Ekstrak instruksi scheduled task menjadi prompt yang tidak memakai path
-  Windows.
-- Buat `run.py` dan validasi output.
-- Gunakan mode dry run agar pengembangan tidak selalu mengunggah ke Drive.
+- Runner dipicu manual.
+- Push dan pull request hanya menjalankan self-check tanpa API.
+- Output menjadi artifact dan tidak mengubah repository.
 
-### Fase 2, integrasi Drive
+### Fase 2, verifikasi
 
-- Buat service account Google.
-- Beri akses folder tujuan kepada email service account.
+- Tambahkan secret API di GitHub.
+- Jalankan workflow manual.
+- Periksa akurasi sumber, struktur output, biaya, dan durasi.
+
+### Fase 3, integrasi Drive
+
+- Tentukan autentikasi Google yang cocok dengan jenis folder tujuan.
 - Simpan credential hanya sebagai secret.
+- Aktifkan upload setelah artifact GitHub dinyatakan aman.
 
-### Fase 3, VPS
+### Fase 4, VPS
 
 - Clone repository.
 - Buat virtual environment dan pasang dependency.
 - Tambahkan cron jam 00.00 zona Asia Jakarta.
 - Simpan log dan kirim notifikasi jika exit code gagal.
 
-### Fase 4, GitHub Actions opsional
-
-- Tambahkan workflow test pada setiap push.
-- Tambahkan `workflow_dispatch` untuk run manual.
-- Pertimbangkan schedule hanya jika VPS tidak digunakan.
-
-## Keputusan yang perlu dibuat
-
-Sebelum menulis runner:
-
-1. Provider model dan web search yang akan digunakan.
-2. VPS atau GitHub Actions sebagai scheduler utama.
-3. Apakah output harian perlu ikut di-commit ke Git.
-4. Metode autentikasi Google Drive, service account direkomendasikan untuk VPS.
-
+Schedule GitHub sengaja belum diaktifkan. Aktifkan hanya setelah beberapa run
+manual konsisten dan batas biaya sudah disepakati.
