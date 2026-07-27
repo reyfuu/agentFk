@@ -1,0 +1,590 @@
+1. open AI
+baru aja ngerilis
+announcement terbaru mereka yaitu the new
+gpt five point five
+dan menurut gua nih ya ini bukan sekedar Update biasa
+open AI nyebutnya a new class of intelligence
+bukan sekedar versi baru
+bukan juga upgrade
+tapi kelas baru
+maksudnya kayak gimana
+nih gue jelasin jadi tiga poin ya yang pertama jpt
+five point
+five ini dirancang buat ngerti tujuan yang kompleks
+jadi bukan sekedar ngejawab pertanyaan biasa
+ya tapi jpt five point five ini bisa nge breakdown
+goals kalian jadi langkah-langkah yang konkrit
+terus eksekusi sendiri yang ke-2
+dia juga bisa pakai tools
+jadi kalian kasih dia akses ke browser
+ke code ke file and then dia yang bakal urus sampai
+goal kalian ini tercapai
+jadi bukan cuman ngasih instruksi aja tapi beneran
+ngerjain
+dan yang ke-3 ini nih yang paling menarik buat gua
+yaitu dia bisa
+cek his own work jadi AI
+yang bisa nge audit dirinya sendiri
+sebelum kasih output ke kalian
+self audit ini menurut gue shows
+real intelligence loh
+dan bisa jadi ya jpt
+five point five ini lebih advance dari
+opus 4 poin 7 yang bawel
+too much information
+dan juga boros token
+itu terus gue iseng dong gue coba login ke chat jpt gua
+gua rubah setting annya ke jpt five point five
+terus gue iseng aja tanya so tell me
+are you gpt five point five better
+dan cloud opus four point seven
+and dia pede loh dia yakin kalau gpt five point five
+ini better dan
+opus four point seven
+espesially buat daily use gua
+kayak market research
+strategic thinking
+nulis konten sampai
+multi step execution
+by the way guys sekarang ini
+ya ini udah available di chat
+jpt sama kodex
+gua strongly
+suggest kalian semua user chat jpt untuk cobain
+sekarang juga
+and please let me know di komen
+gimana pengalaman kalian pakai
+jpt five point five oke
+
+2. kalian tahu nggak mungkin ini bisa dikatakan
+sebagai the greatest
+transfer di dunia AI
+sekarang ini
+ini tuh ibarat neymar dibeli PSG
+dari Barcelona
+check this out so guys orang ini namanya Andre
+karpati ini orang yang ngajarin jutaan developer
+cara kerja neural network dari 0
+dan dia resmi keluar dari open AI
+dan masuk ke antropik dan ini tuh bukan rotasi biasa
+tapi ini tuh buat gua adalah signal
+carpat itu bukan sekedar researcher
+dia tuh otak dibalik Tesla autopilot
+dia yang build culture engineering AI di open AI
+sejak awal so kalau ada satu orang yang paham betul
+ke mana arah AI
+teknologi ini gue yakin
+dia adalah salah satu top of mind-nya
+dan dia memilih untuk join
+antropik kita semua tahu ya antropik ini bukan underdog
+mereka yang bikin cloud AI
+yang dipakai
+ratusan juta orang sekarang ini termasuk
+gua setiap harinya
+so buat gua ini tuh udah kayak perang
+dan perang ini bukan soal siapa yang punya
+chatbot paling pintar nantinya
+tapi ini soal siapa yang bakal mengontrol
+infrastruktur intelligence untuk satu dekade ke depan
+jadi menurut gua keputusan karpati
+adalah salah satu sinyal paling jelas
+tentang di mana
+infrastruktur tersebut
+akan dibangun
+nantinya dan
+market pun ngerespons dengan positif sekali
+kalian bisa lihat di sini
+primarket saham antropik langsung melonjak 24%
+dari sejak 19 mei
+tepat ketika Andre karpati
+mengumumkan kalau dia pindah ke antropik so guys gue
+yakin banget this is the best
+time untuk kalian belajar
+and build AI
+tools untuk meningkatkan produktivitas
+maupun bisnis kalian
+buat kalian yang mau belajar
+cek link di bio gue ya di situ gue ngajarin
+cara build your personal AI tools dari 0
+
+3. gue mau buktiin kalau AI
+bisa bikinin gue bisnis dari 0-1 miliar
+and this is day seven
+so guys gue mau Update dulu sama kalian progres
+gue dari sisi angka setelah 7 hari
+ya ini dari sisi income
+dan juga dari sisi pengeluaran check this out
+yang pertama dari sisi
+revenue ini udah kekumpul
+141.000.000 ya so udah sekitar 14% dari target
+gue satu miliar
+next gue juga mau breakdown sama kalian
+cost gua untuk ngerunning AI
+education bisnis gue ini yang pertama cloud Max
+subscription
+ya ini gue pakai yang $100 per bulan
+jadi kira-kira segini
+terus antropik fpi ya gue pakai kira-kira $50 per bulan
+cuman ini ini tumpang-tindih lah ya ini nggak gue pakai
+cuman buat yang
+course project gua aja tapi gue pakai untuk
+memang kebutuhan gue sehari-hari ya jadi ini sebenarnya
+untuk bisnisnya sendiri jauh lebih rendah dari ini ya
+jadi kira-kira segini tapi anggap aja gue bebanin
+kosnya ke course
+gue ini oke
+terus next untuk infranya ini ada versel
+neon sama cloud flare itu 0
+ya jadi ini untuk website
+hosting database dan juga DNS
+email routing dan juga ssl
+ini 0 gue masih pakai yang free
+udah gitu untuk railway
+untuk hosting discord
+bots gua kan gua ada discord bot ada dua ya ada ask
+Andre dan juga ada yang untuk nge verify
+subscribers
+itu gua pakai yang $5 perbulan
+habis itu reason ini untuk kayak kirimin kalian kalau
+otp untuk login
+untuk juga welcome email buat kalian yang
+subscribe ini gua pakai $20 perbulan
+terus ada beehive ini untuk newsletter
+untuk kalian yang
+subscribe ke newsletter
+ini gue pakai yang $39 perbulan ini dari beehive
+terus domain godedi ini kira-kira 250.000 per tahun so
+cost-nya kira-kira segini
+ini kalian tambahin aja ya kira-kira 3,7 juta doang
+so guys kalian bayangin ya
+revenue gua udah 140 jutaan
+tapi cost gua itu nggak sampai 3%
+ya jadi marginnya 97% lebih ini belum dihitung pajak ya
+di mana lagi lu ketemu
+ya lu bisa create bisnis dengan margin
+selebar ini ya menurut gua nggak bakal ada
+dan ini semua
+benar-benar gua jalanin dari 0
+sampai sekarang ya hari ke-7 full pakai AI
+gua nggak hire satu orang pun karyawan semuanya
+full pakai AI
+karena itu gua bener-bener suggest
+ya buat teman-teman semua para creators out there
+build something
+use AI to build something karena menurut gua creator
+ekonomi itu akan jadi masa depan
+dari ya pekerjaan ya oke
+
+4. guys buat kalian holder
+hyperliquid lagi ada drama seru banget nih so
+hyperliquid
+kan lagi naik kenceng banget ya dan harganya
+sekarang udah $56,7
+ya buat kalian para holder congrats
+but on the other side ada satu giant whale
+hyper liquid yang lagi nge
+short hyper liquid kayak dia tuh punya dendam
+ini dia guys check this out dia itu lagi nge short
+hyper liquid senilai
+$96.000.000
+ya dan pnl-nya sekarang ini minus
+$21.000.000 ya
+tapi menariknya
+kalian tahu nggak
+ini kan satu wallet dia ya saldonya $33.000.000
+dia itu punya wallet lain ya yang saldonya $122.000.000
+dan kira-kira
+6 hari lalu dia itu baru aja nge unsteak 558.000
+hyperliquid atau setara
+kira-kira $31.000.000
+so it means ya mestinya
+ya kalau di
+unsteak ya dia mau jualan nggak sih
+ini dia guys
+transaction details-nya 14/05/2026 9.00 dua 9 PM
+asumsi gua ini
+UTC time ya dia unsteak
+558.000 hyperliquid senilai $31.000.000 tadi ya nah
+hyperliquid kalau kalian unsteak dari validator
+itu punya seven day q period ya jadi antri 7 hari
+jadi kalau dihitung mestinya
+conversion-nya actual unstaking-nya dari
+staking wallet ke spot wallet-nya mestinya itu
+mei 21 9 dua 9 PM waktu UTC atau
+kita di waktu Jakarta atau gue di bangkok sekarang
+ya itu 22 mei
+ya 4.00 dua 9 pagi ya jadi
+Subuh besok Subuh nih guys ya dan kalian tahu nggak
+wallet ini tuh adalah salah satu
+wallet yang gua pribadi
+track karena dia tuh punya win
+rate yang bener-bener bagus banget
+dan dia benar-benar terus open short hyper
+liquid ya bahkan pagi ini gue lagi bikin video 8.00 12
+tadi dia baru
+open short lagi nih 7 40 open short lagi 7 tiga 9
+open short lagi
+terus banyak banget dia tuh open short
+terus ya 5.00 pagi
+dia benar-benar
+sizing up ke atas terus untuk nge
+open short hyper liquid-nya
+guys tapi video ini gue bikin buat informasi
+aja ya sama sekali nggak boleh kalian jadikan bahan
+untuk investasi maupun trading
+ya tapi gue mau tahu pendapat kalian kira-kira wallet
+ini bakal kena liquidate atau nggak
+coba tulis pendapat kalian di kolom komentar
+
+5. cloud estir ini tuh Jarvis
+nya gua cloud code yang literally nge
+build website gua payment system bot
+and semua tools and agents gua
+so far buat builders ya ini belum ada yang ngalahin
+kekurangannya sih menurut gua cuman ya
+tokennya Mahal sama opus
+4 7 nih terlalu bawel
+masih enak opus 4 6 tir a
+tokennya murah buat nge coat juga surprising-nya bagus
+dan kelebihannya kalian tuh bisa self host minusnya
+server sering overload jadi kadang agak lambat
+mungkin karena base in China
+kali ya jadi ada privasi concern tapi dari sisi
+value menurut gua ini good choice
+tirse he he some of you
+pasti nggak setuju sama gua but
+it's okay ini kan pure experience aja ya
+sebetulnya ini tuh AI
+pertama gua dari sejak dia
+launch di 2023 ya
+tapi dari pengalaman gua ini sering banget halu
+informasinya suka nggak akurat
+dan yang paling gua nggak suka terlalu
+agreeable apa-apa setuju setuju setuju
+jadi event gua ngawur aja dia nggak bisa koreksi
+makanya gua udah nggak pakai lagi
+sejak beberapa bulan terakhir
+tapi gua ngaku dulu nih sama kalian
+gua tuh belum coba lagi sejak jpt five
+dan gua baca banyak banget review
+ya katanya sejak jpt five sih udah bagus banget
+apalagi buat image generation ya air
+nih gue suka karena bisa langsung connect ke x
+jadi kalau gue butuh
+real time news nyari sentimen apa yang lagi rame di x
+gua pakai grok
+dan satu lagi kelebihannya dia itu unsensor
+kalian literally
+bisa tanya apa aja so mesti hati-hati makainya oke
+nah ini juga es tir
+best banget buat pemakaian harian
+bisa connect ke Google YouTube
+drive gmail docs dan semua ekosistem Google
+tokennya juga paling murah di level frontier
+tapi buat doing
+komplek task menurut gue sih kurang reliable ya
+tir b ini buatan Perancis sempat ngetes dan ini bisa
+servos juga
+cocok buat enterprise yang butuh privasi
+tapi ya menurut gue b aja sih nggak ada kelebihan apa
+gitu tir c
+basically gue ngerasa ini kayak chat jpt
+rapper buat Microsoft office
+so kalau kalian
+heavy user word sama excel mungkin ini berguna
+tapi selain itu skip nah ini tir
+a nih ini real dark horse menurut gua
+banyak yang belum tahu tapi performance-nya
+menurut gua lumayan mendekati frontir
+dengan harga yang
+sangat-sangat murah
+tapi kekurangannya ya ekosistemnya tuh masih kecil
+jadi documentation-nya masih terbatas tir b ini
+alibaba punya coding-nya bagus dia juga open weight
+murah tapi sayangnya kurang dikenal
+di luar China
+tapi ya menurut gue sih
+worth to explore lah so kalau kalian AI
+favoritnya apa coba tulis di kolom komentar
+
+6. antropik baru aja rilis cloud opus 4 8
+dan ada satu hal yang langsung bikin gue happy banget
+karena ini yang gue tunggu tunggu selama ini
+yaitu opus 4 8
+sekarang udah bisa browsing internet
+secara real time so bukan lagi retrieve dari data
+yang udah kita train
+bukan simulasi
+melainkan real time browsing
+dan di benchmark online main to web
+pus 4 8 ini dapat skor 84% tertinggi
+di antara semua model yang ada sekarang
+termasuk jpt
+tapi itu baru permulaannya guys ada juga legal
+tech company yang bilang opus 4 8
+adalah model pertama yang bisa nembus trash hold mereka
+untuk pekerjaan hukum yang bisa langsung di
+hand off ke klien
+so bayangin nih
+bisa langsung di hand off loh artinya mungkin nih ya
+kalau bang hotman Paris ngerti pakai opus 4 8
+para junior
+lawyer-nya bisa ketar-ketir
+dan ini bukan kata sembarang orang
+ini kata Harvey dot AI AI
+platform yang bisa streamline seluruh proses legal
+kalian yang tahun lalu
+baru dapat top fifty best us startup dari link in
+terus ada dua fitur yang gua mau highlight
+sama kalian nih yang pertama
+dynamic work flows
+selama ini AI itu linear
+satu input satu output satu langkah sekaligus
+dinamik work flow memungkinkan opus 4 8
+untuk menyesuaikan alur kerjanya sendiri secara real
+time tergantung kompleksitas problemnya
+dia yang decide
+gimana cara terbaik untuk
+solve suatu task enak banget kan
+gue yakin nih dengan fitur ini kita tuh bisa nge
+prom lebih pendek dari sebelumnya
+dan yang ke-2 ada adaptif thinking
+sebelum ngasih jawaban
+opus 4 8 bisa nyesuaiin depth of reasoning-nya
+sesuai dengan beratnya problem
+problemnya simpel cepat
+problemnya kompleks
+dia bakal coba
+solve per layer sebelum share result-nya sama kalian
+hasilnya tentu lebih akurat
+lebih kontekstual dan juga lebih relevan
+dan menariknya nih guys semua upgrade ini
+dengan harga yang sama dengan opus 4 7
+password-nya bahkan tiga kali lebih murah
+so simpelnya nih opus 4 8 lebih pintar
+lebih cepat
+dan lebih murah
+by the way guys buat kalian yang mau belajar
+lebih dalam
+mengenai AI and build your first AI agent
+kalian bisa cek link di bio
+gua ya di situ gua ngajarin pemula untuk transform
+bisnis kalian dengan AI
+so go check it out
+
+7. guys buat kalian yang udah ketinggalan
+hyper liquid tapi masih mau
+cuan check this out video ini buat kalian
+but guys sebelumnya gue mau ingetin
+dulu sama kalian ya this is not a financial advice
+video ini hanya bersifat informatif aja dan
+sama sekali nggak boleh kalian jadikan
+acuan untuk trading maupun berinvestasi
+oke so guys toko crypto lagi ngadain
+campaign cashback dengan total hadiah
+Rp250.000.000
+dan cashback-nya dalam bentuk token robo token
+dari pabrik protokol yang ngasih kalian kepemilikan
+di infrastruktur
+AI dan robotik secara onchain
+kalian masih ngelaya narasi AI agentik
+ini kan lagi luar biasa
+hits ya nah terus gimana nih cara dapetinnya
+simpel aja ada dua cara
+buat kalian
+user baru kalian bisa
+sign up toko crypto pakai link di description
+lakukan kyc
+deposit minimal Rp250.000 lalu trading per BTC idr
+dan kalian berkesempatan dapat cashback
+token robo dan untuk existing user
+cukup trading BTC idr minimal Rp2.000.000
+kalian bisa dapat cashback sampai dengan 4000
+token robo lumayan banget kan by the way
+event ini cuman sampai 4 juni
+ya so waktu kalian tinggal sebentar lagi
+gimana guys kalian ada yang udah dapetin cashback
+token robo belum coba tulis di kolom komentar ya
+
+8. gimana sih caranya gunain AI
+buat trading crypto
+gimana sih caranya build
+AI yang trading buat kita otomatis
+dan kitanya bisa tidur tidur
+ongkang-ongkang kaki
+chill di pantai
+nah ini salah satu common
+questions yang sering banget gue temukan di DM gua
+well buat kalian semua yang punya pertanyaan yang sama
+gua akan address
+di video ini dan gua bakal share sama kalian semua best
+case buat kalian bisa gunain
+AI buat membantu kalian trading
+yang pertama bisa nggak sih kita
+build AI agent buat trading untuk kalian
+technically bisa
+tapi jujur nih ya gue pun masih belum ketemu formulanya
+setelah ngulik cukup lama
+gue putuskan untuk skip dulu hal ini
+karena ini tuh jauh lebih kompleks dari yang gue pikir
+parameternya harus terus kalian adjust
+nggak bisa kalian sekali build
+dan kalian tinggalin
+dia untuk run beberapa minggu ke depan
+dan buat kalian yang udah pernah coba build
+kalian pasti ngerti maksud gue ini so gue skip dulu
+tapi yang ke-2 ini yang real
+benar-benar gue pakai sekarang
+yaitu gue menggunakan AI
+untuk membantu
+gue menyaring puluhan ribu informasi di luar sana
+yang mana sebelumnya
+gue tuh butuh berjam-jam duduk depan
+laptop baca paper baca tweet baca news
+itu pun kadang cuman
+ngambek doang nggak dapat alfa apapun
+tapi dengan AI
+gue bisa filter
+dan dapetin insight yang gue mau
+cuman dalam hitungan detik aja
+ini menurut gue cara pakai AI
+yang jauh lebih relevan
+dan bisa segera
+kalian gunakan
+buat trading
+dan yang ke-3 nih gua kasih kalian satu IDE
+yang bisa langsung kalian coba
+cukup tiga step aja yang pertama kalian buka
+x atau Twitter terus cari CT
+favorit kalian
+yang ke-2 buka
+grup dan yang ke-3 kalian paste link dari CT
+favorit kalian terus tulis prom ini
+make sure kalian pakai expert
+mode supaya jawabannya lebih detail and that's it
+dalam waktu 1-2 menit aja
+kalian udah dapat 5 tiker idea
+beserta tesisnya gampang banget kan
+dan kalau kalian mau lebih expert lagi kalian bisa
+build wallet
+tracker untuk nge
+track setiap kali orang ini lagi open
+atau close position secara real time
+nah buat kalian yang mau belajar build wallet tracker
+bisa cek di website gua Andreas rto
+dot com karena di situ gua bakal ngajarin kalian cara
+nge build wallet tracker
+serta semua
+knowledge yang kalian butuhkan untuk bisa ngebangun AI
+tools kalian oke
+
+9. tahu nggak kalian
+perusahaan ini berpeluang untuk mencetak sejarah
+dengan menjadi the largest
+ipo in history ngalahin
+rekor yang selama ini dipegang oleh Saudi aramco
+yang pada waktu itu berhasil
+race 25,6 miliar USD
+dengan valuasi 1,7 triliun USD
+so perusahaan ini namanya antropik perusahaan AI
+di balik cloud valuasi mereka sekarang
+hampir satu triliun dolar sebelum ipo
+ipo-nya sendiri ditargetkan di awal oktober 2026 nanti
+mereka udah confidentially file s one ke SEC
+artinya prosesnya sudah resmi Jalan
+dan gilanya nih ya bahkan sejak november tahun lalu
+ya sudah banyak
+traders yang berspekulasi terhadap harga
+pre ipo-nya dan harganya sendiri udah terbang dari $300
+naik 5,5 kali lipat ke 1000 $700 di saat gua bikin
+video ini nah sekarang kan pertanyaannya kenapa
+valuasinya bisa hampir satu triliun
+di luar manajemen
+actual revenue dan juga teknologi mereka
+ya some people mulai berspekulasi bahwa AI is the new
+oil dulu semua aktivitas produksi di dunia
+butuh satu hal yaitu oil
+dan Saudi aramco
+yang duduk di atas cadangan minyak
+terbesar di dunia
+berhasil menjadi perusahaan paling valuable di masanya
+makanya valuasinya ketika ipo
+menyentuh 1,7 triliun us dolar tapi setahun terakhir
+dan kemungkinan di masa depan
+semua aktivitas produksi bakal membutuhkan satu hal
+yaitu itu AI
+dan kita semua tahu
+antropik adalah salah satu perusahaan terbaik
+di bidang AI
+karena itu bahkan di platform
+prediction market para smart traders
+ini punya confidence sebesar 63% kalau
+ipo-nya antropik
+bakal nyentuh valuasi 1,8 triliun USD atau
+antropik bakal break the record menjadi the largest
+ipo in history
+so guys kalau dulu oil yang cetak sejarah sekarang
+mungkin AI
+yang bakal ngegantiin
+anyway guys buat kalian yang lagi belajar
+build your personal AI
+tools dan juga agents
+bisa cek ke website gua Andreas arto
+dot com karena di situ gua ngajarin dari 0 cara
+build AI tools buat transform bisnis kalian oke
+
+10. gue punya otak ke-2
+dan otak gue yang ke-2 ini nggak pernah lupa
+nggak bakal ngerasain yang namanya
+burnout sehingga butuh healing
+dan yang paling penting
+makin pintar
+setiap harinya so
+IDE ini gue dapat dari Andre
+karpati salah satu orang yang paling dalam
+ngerti mengenai AI
+di dunia ini
+dia nyebut konsep ini sebagai llm knowledge base
+konsepnya simpel
+semua yang kalian tonton
+semua yang kalian baca
+semua yang kalian kerjain
+disimpan sebagai log struktur
+mudah dicari
+dan bisa ditanya kapanpun ke AI
+dan gua udah build versi gua sendiri
+dan result-nya kayak gini nih kalian bisa lihat
+ini semua coding session gua
+apa yang pernah gua tonton di YouTube
+apa yang agents gua kerjain
+semua IDE yang gua diskusikan dengan AI semuanya
+dicatat di sini secara otomatis setiap 12.00 malam
+so ini bukan sekedar catatan biasa ini knowledge base
+yang aktif dan juga hidup
+kalian bisa tanya
+kalian bisa minta sintesisnya
+kalian bisa minta koneksi antar IDE
+gue sendiri udah Jalan beberapa bulan
+pakai sistem ini dan yang gue rasain
+gue nggak kehilangan insight lagi
+artikel yang gue baca tiga bulan lalu
+video yang gue tonton minggu kemarin
+diskusi mengenai IDE
+bisnis dua minggu yang lalu
+semuanya bisa gua akses dan gua
+olah lagi dalam hitungan detik
+dan kalian semua juga bisa build otak ke-2
+kalian sekarang juga ini promonya
+so guys mulai dari hari ini
+feed dia setiap hari
+dan dalam tiga bulan
+kalian punya otak ke-2
+yang tahu lebih banyak tentang cara berpikir kalian
+daripada diri kalian sendiri
+anyway guys buat kalian yang lagi belajar
+build your personal AI
+tools dan juga agents
+bisa cek ke website gua Andreas Airbnb
+dot com karena di situ gua ngajarin dari 0
+cara build AI
+tools buat transform bisnis kalian oke
