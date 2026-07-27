@@ -15,8 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -28,10 +28,9 @@ jobs:
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
       - name: Upload result artifact
         if: success()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: ai-news-${{ github.run_id }}
           path: Riset AI News/20*.md
           if-no-files-found: error
           retention-days: 14
-
